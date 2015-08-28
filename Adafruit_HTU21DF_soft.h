@@ -1,4 +1,7 @@
 /*************************************************** 
+  
+  ** Modified for any i2C pin
+
   This is a library for the HTU21D-F Humidity & Temp Sensor
 
   Designed specifically to work with the HTU21D-F sensor from Adafruit

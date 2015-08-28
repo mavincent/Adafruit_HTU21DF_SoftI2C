@@ -1,5 +1,5 @@
 # Adafruit_HTU21DF_SoftI2C
-Implementation of SoftI2C for the Temp. &amp; Humidity sensor from Adafruit
+Implementation of SoftI2C for the Temp. &amp; Humidity sensor from Adafruit.
 ```c
 #include "Adafruit_HTU21DF_soft.h"
 #include "SoftI2CMaster.h"
